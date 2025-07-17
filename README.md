@@ -6,6 +6,7 @@ This project demonstrates how to classify images of **dogs and cats** using **HO
 
 ## 📂 Dataset
 
+[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data).
 The training dataset must follow this structure:
 dogs-vs-cats (1)/
 └── train/
